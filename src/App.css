@@ -1,7 +1,22 @@
 .App {
   text-align: center;
 }
-
+button {
+  margin-left: 5px;
+}
+ul {
+  list-style: none;
+  width: 130px;
+} 
+ul li {
+ 
+     /* width: 60px; */
+  height: 50px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
